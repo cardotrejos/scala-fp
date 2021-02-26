@@ -26,9 +26,10 @@ Se encuentra en la rama main, y dichas pruebas se pueden verificar con el comand
 
 2. Make sure you have sbt installed on your computer.
 
-3. Build the project
+3. Compile the project
 ```bash
-sbt build
+sbt
+sbt:taller> compile
 ```
 4. Run project test.
 ```bash
